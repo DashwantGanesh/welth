@@ -50,7 +50,7 @@ const Header = () => {
       <SignedIn>
         <UserButton appearance={{
           elements:{
-            userButtonAvatarBox:"w-16 h-40",
+            userButtonAvatarBox:"w-16 h-16",
           },
         }} />
       </SignedIn>
